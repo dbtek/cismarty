@@ -5,9 +5,9 @@ About
 --------------
 - [Cismarty v0.1](https://github.com/dbtek/cismarty/releases "Latest release")
 - Cismarty consists of Codeigniter core files, Smarty engine and a few linker files.
-- Codeigniter Home: [ellislab.com/codeigniter](http://ellislab.com/codeigniter "")
-- Smarty Home: [www.smarty.net](http://www.smarty.net "")
-- Smarty crash course [smarty.net/crash_course](http://www.smarty.net/crash_course "More than just introduction")
+- Codeigniter Home: [ellislab.com/codeigniter](http://ellislab.com/codeigniter)
+- Smarty Home: [www.smarty.net](http://www.smarty.net)
+- Smarty Crash Course: [smarty.net/crash_course](http://www.smarty.net/crash_course "More than just introduction")
 
 Requirements
 ---------------------
