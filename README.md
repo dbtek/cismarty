@@ -3,7 +3,7 @@ Codeigniter and Smarty Bundle
 
 About
 --------------
-- [Cismarty v0.1](https://github.com/dbtek/cismarty/releases "Latest release")
+- [CiSmarty v0.2](https://github.com/dbtek/cismarty/releases "Latest release")
 - Cismarty consists of Codeigniter core files, Smarty engine and a few linker files.
 - Codeigniter Home: [ellislab.com/codeigniter](http://ellislab.com/codeigniter)
 - Smarty Home: [smarty.net](http://www.smarty.net)
