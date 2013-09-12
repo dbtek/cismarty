@@ -19,10 +19,11 @@ class Welcome extends MY_Controller {
 	 */
 	public function index()
 	{
-		//$this->load->view('welcome_message'); 	//default ci views
-		$data['title'] = "Welcome to CodeIgniter and Smarty Bundle";
-		$this->smarty->view('welcome/index.tpl',$data);
+		//$this->load->view('welcome_message'); 	// default ci views
 		
+		$data['title'] = "Welcome to CodeIgniter and Smarty Bundle";
+		$this->smarty->view('welcome.tpl',$data);	// smarty template load
+	
 	}
 }
 

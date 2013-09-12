@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>{$title}</title>
+	<title>Cismarty</title>
 
 	<style type="text/css">
 
@@ -73,12 +73,14 @@
 		<p>The page you are looking at is being generated dynamically by CodeIgniter and Smarty template engine.</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
-		<code>application/views/welcome_message.php</code>
+		<code>application/views/templates/welcome/welcome.tpl</code>
 
 		<p>The corresponding controller for this page is found at:</p>
 		<code>application/controllers/welcome.php</code>
 
 		<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>. For further information about Smarty go <a href="http://www.smarty.net/docs/en/">Smarty Manual</a>.</p>
+		
+		<p>Cismarty v0.2 - <a href="https://github.com/dbtek/cismarty">GitHub</a></p>
 	</div>
 
 </div>
