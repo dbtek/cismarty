@@ -11,3 +11,5 @@ application/logs/*
 .project
 .settings
 .buildpath
+
+application/views/templates_c
