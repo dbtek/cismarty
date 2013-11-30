@@ -27,5 +27,5 @@ Installation
 - Make sure the following directories have **write** permission:
     * application/views/templates_c
 - Use **Class Controller extends MY_Controller** instead of **Class Controller extends CI_Controller**
-	*This is required for smarty to run proper.*
+	*This is required for smarty to run properly.*
 
