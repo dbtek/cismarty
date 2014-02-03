@@ -1,4 +1,5 @@
 application/cache/*
+!application/cache/templates_c
 !application/cache/index.html
 !application/cache/.htaccess
 
