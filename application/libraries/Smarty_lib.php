@@ -33,7 +33,7 @@ class Smarty_lib extends Smarty {
 		
 		$this->error_unassigned = false; 
 		
-		$this->compile_dir = APPPATH . "views/templates_c";
+		$this->compile_dir = APPPATH . "cache/templates_c";
 		$this->template_dir = APPPATH . "views/templates";
 		$this->assign( 'APPPATH', APPPATH );
 		$this->assign( 'BASEPATH', BASEPATH );
